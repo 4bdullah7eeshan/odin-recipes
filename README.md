@@ -6,6 +6,8 @@ This is a website that features recipes of dishes that lived through history.
 
 This was created as part of [The Odin Project](https://www.theodinproject.com/)'s [Recipes](https://www.theodinproject.com/lessons/foundations-recipes) project.
 
+**[Live View](https://4bdullah7eeshan.github.io/odin-recipes/)**
+
 ## Learning Reflections
 
 ### Basics
