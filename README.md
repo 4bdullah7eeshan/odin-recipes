@@ -39,3 +39,12 @@ This was created as part of [The Odin Project](https://www.theodinproject.com/)
 
 - Create links to other webpages of my own website
 - Create links that open in a new tab/window
+
+### CSS
+
+- Add external CSS to HTML
+- Change color of text elements
+- Change background color of HTML elements
+- Change font of an HTML text elements
+- Align text horizontally
+- Change the dimensions of images proportionally
