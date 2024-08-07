@@ -1,0 +1,30 @@
+* {
+    font-family: Georgia, Garamond, "Times New Roman", serif;
+    background-color: #000000;
+    color: #D3D3D3;
+}
+
+img {
+    outline: 2px solid #D3D3D3;
+    height: auto;
+    width: 350px;
+}
+
+div,
+h1 {
+    text-align: center;
+}
+
+a {
+    color: lightskyblue;
+}
+
+h1,
+h2, 
+h3,
+h4,
+h5,
+h6 {
+    font-family: Papyrus, fantasy;
+    background-color: #171717;
+}
