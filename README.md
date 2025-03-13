@@ -2,6 +2,20 @@
 
 This is a simple recipe website created with HTML.
 
+## Project Structure
+
+Here is a bird-eye view of the repo structure
+
+```
+├── LICENSE
+├── README.md
+├── index.html
+└── recipes/
+    ├── lasagna.html
+    ├── lemonade.html
+    └── pancake.html
+```
+
 ## Background
 
 This website was created as part of [The Odin Project](https://www.theodinproject.com/)'s [Recipe](https://www.theodinproject.com/lessons/foundations-recipes) project.
