@@ -28,7 +28,6 @@ This is a simple recipe website created with HTML.
 Here is a bird-eye view of the *core* items of this project
 
 ```
-├── LICENSE
 ├── README.md
 ├── index.html
 └── recipes/
