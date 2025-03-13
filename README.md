@@ -2,9 +2,30 @@
 
 This is a simple recipe website created with HTML.
 
+## Screenshots
+
+### Homepage
+
+![Odin Recipes Homepage](./utils/odin-recipes-homepage.png)
+
+### Recipe Pages
+
+#### Lasagna Recipe Page
+
+![Odin Recipes Lasagna Recipe Page](./utils/odin-recipes-lasagna-recipe-page.png)
+
+#### Pancake Recipe Page
+
+![Odin Recipes Pancake Recipe Page](./utils/odin-recipes-pancake-recipe-page.png)
+
+#### Lemonade Recipe Page
+
+![Odin Recipes Lemonade Recipe Page](./utils/odin-recipes-lemonade-recipe-page.png)
+
+
 ## Project Structure
 
-Here is a bird-eye view of the repo structure
+Here is a bird-eye view of the *core* items of this project
 
 ```
 ├── LICENSE
