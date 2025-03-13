@@ -1,2 +1,3 @@
-# odin-recipes
-A basic recipe website.
+# Odin Recipes
+
+This is a simple recipe website created with HTML.
