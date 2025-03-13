@@ -2,6 +2,8 @@
 
 This is a simple recipe website created with HTML.
 
+**[See it live!](https://4bdullah7eeshan.github.io/odin-recipes/)**
+
 ## Screenshots
 
 ### Homepage
